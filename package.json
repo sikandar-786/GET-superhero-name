@@ -9,7 +9,7 @@
   "author": "mayurrajurkar",
   "license": "ISC",
   "dependencies": {
-    
+    main
     "superheroes": "^3.0.0"
   }
 }
