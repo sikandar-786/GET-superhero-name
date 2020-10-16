@@ -6,3 +6,6 @@ const supervillains = require("supervillains");
 
 console.log(superheroes.random());
 console.log(supervillains.random());
+
+// Display a Versus
+console.log(superheroes.random() + " vs " + supervillains.random());
